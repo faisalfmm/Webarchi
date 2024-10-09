@@ -1,0 +1,23 @@
+/* HomePage.css */
+.counter-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    background-color: #f9f9f9; /* Light grey background */
+}
+
+.counter {
+    text-align: center;
+}
+
+.counter h1 {
+    font-size: 4rem;
+    color: #000;
+    margin: 0;
+}
+
+.counter p {
+    font-size: 1.2rem;
+    color: #888;
+    margin: 5px 0;
+}

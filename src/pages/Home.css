@@ -1,0 +1,113 @@
+/* src/pages/Home.css */
+.home {
+    margin-top: 60px; /* Height of the fixed header */
+  }
+  .design-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.design-section h1{
+  font-size: 50px;
+  margin-bottom: 60px;
+  color: rgb(0, 0, 0);
+  margin-left: 70px;
+}
+
+.design-section h2 {
+  font-size: 20px;
+  margin-bottom: 60px;
+  color: rgb(91, 91, 91);
+  margin-left: 70px;
+}
+
+.image-gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container {
+    position: relative;
+    width: 30%;
+    margin: 0 10px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+    display: block;
+    transition: transform 0.3s ease;
+}
+
+.hover-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 1.5rem;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.image-container:hover .hover-text {
+    opacity: 1; /* Show text on hover */
+}
+
+.image-container:hover .image {
+    transform: scale(1.05); /* Slight zoom on hover */
+}
+@media (max-width: 768px) {
+  .image-gallery {
+      flex-direction: column;
+  }
+
+  .image {
+      width: 80%;
+      margin-bottom: 20px;
+  }
+}
+
+/* Service Section */
+.service-section {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+  background-color: #f9f9f9; /* Light grey background */
+}
+
+.service-card {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 0 20px;
+  padding: 30px;
+  text-align: center;
+  width: 300px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.service-card:hover {
+  transform: translateY(-10px); /* Hover effect */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.service-icon {
+  width: 80px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.service-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.service-card p {
+  font-size: 1rem;
+  color: #666;
+  line-height: 1.5;
+}

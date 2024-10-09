@@ -1,0 +1,10 @@
+/* src/components/ImageSlider.css */
+.slider-container {
+  margin-top: 60px; /* Height of the fixed header */
+}
+
+.slider-image {
+  width: 100%;
+  height: calc(100vh - 60px); /* Full viewport height minus header height */
+  object-fit: cover;
+}

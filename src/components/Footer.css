@@ -1,0 +1,90 @@
+/* src/components/Footer.css */
+
+.footer {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* White text color */
+    padding: 20px 0;
+    font-size: 16px;
+  }
+  
+  .footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-logo {
+    margin-bottom: 15px;
+  }
+  
+  .logo-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .logo-link:hover {
+    color: #006064; /* Highlight color on hover */
+  }
+  
+  .footer-nav {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 15px;
+    padding: 0;
+  }
+  
+  .footer-link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .footer-link:hover {
+    color: #006064; /* Highlight color on hover */
+  }
+  
+  .footer-social {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .social-link {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .social-link:hover {
+    color: #006064; /* Highlight color on hover */
+  }
+  
+  .footer-bottom {
+    border-top: 1px solid #555; /* Top border for separation */
+    padding-top: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #aaa;
+  }
+  /* src/components/Footer.css */
+
+/* ... existing styles ... */
+
+.footer-social a {
+    font-size: 20px;
+    color: #fff;
+    transition: color 0.3s;
+  }
+  
+  .social-link:hover {
+    color: #006064; /* Highlight color on hover */
+  }
+  .contact-details{
+    align-items: right;
+  }

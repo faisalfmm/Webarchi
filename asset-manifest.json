@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Webarchi/static/css/main.1da71e25.css",
+    "main.js": "/Webarchi/static/js/main.fd82dbf7.js",
+    "static/css/642.7dbd28f7.chunk.css": "/Webarchi/static/css/642.7dbd28f7.chunk.css",
+    "static/js/642.80930c00.chunk.js": "/Webarchi/static/js/642.80930c00.chunk.js",
+    "static/css/974.2c76e230.chunk.css": "/Webarchi/static/css/974.2c76e230.chunk.css",
+    "static/js/974.6cc87d85.chunk.js": "/Webarchi/static/js/974.6cc87d85.chunk.js",
+    "static/css/749.f6c571a5.chunk.css": "/Webarchi/static/css/749.f6c571a5.chunk.css",
+    "static/js/749.46a64e2e.chunk.js": "/Webarchi/static/js/749.46a64e2e.chunk.js",
+    "static/css/168.f6f18cfc.chunk.css": "/Webarchi/static/css/168.f6f18cfc.chunk.css",
+    "static/js/168.324f3e59.chunk.js": "/Webarchi/static/js/168.324f3e59.chunk.js",
+    "static/css/975.9136aeb6.chunk.css": "/Webarchi/static/css/975.9136aeb6.chunk.css",
+    "static/js/975.01a0590b.chunk.js": "/Webarchi/static/js/975.01a0590b.chunk.js",
+    "static/js/453.ec0468ea.chunk.js": "/Webarchi/static/js/453.ec0468ea.chunk.js",
+    "static/js/378.6c032d3e.chunk.js": "/Webarchi/static/js/378.6c032d3e.chunk.js",
+    "static/media/slick.svg": "/Webarchi/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Webarchi/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Webarchi/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Webarchi/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Webarchi/index.html",
+    "main.1da71e25.css.map": "/Webarchi/static/css/main.1da71e25.css.map",
+    "main.fd82dbf7.js.map": "/Webarchi/static/js/main.fd82dbf7.js.map",
+    "642.7dbd28f7.chunk.css.map": "/Webarchi/static/css/642.7dbd28f7.chunk.css.map",
+    "642.80930c00.chunk.js.map": "/Webarchi/static/js/642.80930c00.chunk.js.map",
+    "974.2c76e230.chunk.css.map": "/Webarchi/static/css/974.2c76e230.chunk.css.map",
+    "974.6cc87d85.chunk.js.map": "/Webarchi/static/js/974.6cc87d85.chunk.js.map",
+    "749.f6c571a5.chunk.css.map": "/Webarchi/static/css/749.f6c571a5.chunk.css.map",
+    "749.46a64e2e.chunk.js.map": "/Webarchi/static/js/749.46a64e2e.chunk.js.map",
+    "168.f6f18cfc.chunk.css.map": "/Webarchi/static/css/168.f6f18cfc.chunk.css.map",
+    "168.324f3e59.chunk.js.map": "/Webarchi/static/js/168.324f3e59.chunk.js.map",
+    "975.9136aeb6.chunk.css.map": "/Webarchi/static/css/975.9136aeb6.chunk.css.map",
+    "975.01a0590b.chunk.js.map": "/Webarchi/static/js/975.01a0590b.chunk.js.map",
+    "453.ec0468ea.chunk.js.map": "/Webarchi/static/js/453.ec0468ea.chunk.js.map",
+    "378.6c032d3e.chunk.js.map": "/Webarchi/static/js/378.6c032d3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1da71e25.css",
+    "static/js/main.fd82dbf7.js"
+  ]
+}

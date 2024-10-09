@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkarchitectureweb=self.webpackChunkarchitectureweb||[]).push([[975],{975:(e,s,o)=>{o.r(s),o.d(s,{default:()=>c});o(43);var r=o(475),t=o(579);const c=()=>(0,t.jsxs)("div",{className:"notfound page",children:[(0,t.jsx)("h2",{children:"404 - Page Not Found"}),(0,t.jsx)("p",{children:"Sorry, the page you're looking for doesn't exist."}),(0,t.jsx)(r.N_,{to:"/",className:"home-link",children:"Go to Home"})]})}}]);
+//# sourceMappingURL=975.01a0590b.chunk.js.map

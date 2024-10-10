@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+      // Redirect all 404 requests to index.html (React App)
+      var path = window.location.pathname;
+      var query = window.location.search;
+      window.location.replace('/' + query + '#' + path);
+    </script>
+  </head>
+  <body></body>
+</html>

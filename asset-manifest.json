@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Webarchi/static/css/main.1da71e25.css",
+    "main.css": "/Webarchi/static/css/main.c8292c60.css",
     "main.js": "/Webarchi/static/js/main.fd82dbf7.js",
     "static/css/642.7dbd28f7.chunk.css": "/Webarchi/static/css/642.7dbd28f7.chunk.css",
     "static/js/642.80930c00.chunk.js": "/Webarchi/static/js/642.80930c00.chunk.js",
@@ -19,7 +19,7 @@
     "static/media/slick.ttf": "/Webarchi/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Webarchi/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Webarchi/index.html",
-    "main.1da71e25.css.map": "/Webarchi/static/css/main.1da71e25.css.map",
+    "main.c8292c60.css.map": "/Webarchi/static/css/main.c8292c60.css.map",
     "main.fd82dbf7.js.map": "/Webarchi/static/js/main.fd82dbf7.js.map",
     "642.7dbd28f7.chunk.css.map": "/Webarchi/static/css/642.7dbd28f7.chunk.css.map",
     "642.80930c00.chunk.js.map": "/Webarchi/static/js/642.80930c00.chunk.js.map",
@@ -35,7 +35,7 @@
     "378.6c032d3e.chunk.js.map": "/Webarchi/static/js/378.6c032d3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1da71e25.css",
+    "static/css/main.c8292c60.css",
     "static/js/main.fd82dbf7.js"
   ]
 }
